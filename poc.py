@@ -1,4 +1,5 @@
 #coding:utf-8
+#Author:V1lu0
 import requests
 import urllib 
 import re
@@ -10,6 +11,7 @@ print('''
 / /___ / / / /|_____/ /\/\ \/ /_// ___) |
 \____/ \/  \/       \/    \/___,' |____/ 
 md5attack:  [+]0e    [+]Array   [+]Collision
+Author:V1lu0   	QQ:1148491444
 ''')
 
 '''
