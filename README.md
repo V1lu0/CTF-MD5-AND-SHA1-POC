@@ -1,4 +1,4 @@
-# CTF-MD5-AND-SHA1-POC
+# CTF-MD5-AND-SHA1-POC--Python3代码
 
 > 本脚本可以用MD5和SHA1简单的题型
 >
