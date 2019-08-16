@@ -16,11 +16,11 @@ md5 or sh1:{攻击的类是md5还是sh1代码}
 
 GET OR POST:{发包类型是GET类还是POST类}
 
-Flag format:{flag的格式}------如果flag的格式为**“upsec{}”**就请填写**“upsec”**
+Flag format:{flag的格式}------如果flag的格式为“upsec{}”就请填写“upsec”
 
-data:{需要发送参数有多少个}-----例如**“a,b”**参数就写**“2”**
+data:{需要发送参数有多少个}-----例如“a,b”参数就写“2”
 
-GET or POST 参数1:{第一个参数名字}----例如一共**“a,b”**两个参数就写**“a”**
+GET or POST 参数1:{第一个参数名字}----例如一共“a,b”两个参数就写“a”
 
 
 
