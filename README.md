@@ -6,7 +6,7 @@
 >
 > 作者:V1lu0    小白一枚，别介意我写的代码
 
-![1](https://github.com/V1lu0/CTF-MD5-AND-SHA1-POC/tree/master/img/1.png)
+![image](<https://raw.githubusercontent.com/V1lu0/CTF-MD5-AND-SHA1-POC/master/img/1.png>)
 
 ## 参数:
 
@@ -30,7 +30,7 @@ GET or POST 参数1:{第一个参数名字}----例如一共**“a,b”**两个�
 
 ​	第二不会根据你所写的flag格式自动在三种攻击方式中寻找然后打出
 
-![2](https://github.com/V1lu0/CTF-MD5-AND-SHA1-POC/tree/master/img/1.png/2.png)
+![2](<https://raw.githubusercontent.com/V1lu0/CTF-MD5-AND-SHA1-POC/master/img/2.png>)
 
 
 
